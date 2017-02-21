@@ -6,5 +6,5 @@ This is a collection of free links to online courses inspired from [this post](h
 Contributions
 -------------
 
-To contribute to the repo, it's quite straightforward. To do so, just fork the Reproducible
+To contribute to the repo, it's quite straightforward. To do so, just fork the Repo
 make your changes then do a PR.
