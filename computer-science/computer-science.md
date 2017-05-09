@@ -39,3 +39,4 @@
 * [Using Python for Research](https://www.class-central.com/mooc/7204/edx-using-python-for-research);
 
 * [High-performance Computing for Reproducible Genomics](https://www.class-central.com/mooc/2973/edx-high-performance-computing-for-reproducible-genomics) ;
+* [Path to a free self-taught education in Computer Science! ](https://github.com/open-source-society/computer-science)
